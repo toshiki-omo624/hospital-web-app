@@ -1,0 +1,7 @@
+# 重いファイルやディレクトリ
+start_servers.bat
+start_servers.ps1
+/backend/node_modules
+/frontend/node_modules
+/logs
+*.log
